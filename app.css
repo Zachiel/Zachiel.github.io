@@ -1,0 +1,20 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #424242;
+  background-image: url(./images/background-lightest.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  font-weight: 700;
+  text-shadow: 1px 1px 2px black;
+}
+h2 {
+  font-weight: 700;
+}
+header p {
+  color: #424242;
+}
